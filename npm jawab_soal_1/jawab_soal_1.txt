@@ -1,0 +1,17 @@
+Nama: Kenzie Raffa Ardhana
+NIM: 19623066
+
+Axios adalah pustaka JavaScript (library) open source yang popular digunakan untuk melakukan permintaan HTTP (HTTP requests) dalam aplikasi web modern, terutama yang dibangun dengan framework seperti React.js dan React Native.
+
+Keunggulan Axios:
+
+A. Mudah dipelajari dan digunakan: Sintaks (syntax) Axios intuitif dan mudah dibaca, sehingga proses belajar dan penggunaan menjadi lebih efisien dan cepat.
+
+B. Promises-based: Axios menggunakan konsep promises untuk menangani permintaan asinkron (asynchronous requests) secara efisien. Ini memungkinkan Anda untuk menulis kode yang lebih bersih dan mudah dibaca yang menangani kemungkinan keberhasilan atau kegagalan permintaan.
+Mendukung async/await: Axios sepenuhnya kompatibel dengan sintaks async/await, yang semakin menyederhanakan penanganan permintaan asinkron dan meningkatkan keterbacaan kode.
+
+C. Interceptors: Axios menyediakan mekanisme interceptors yang memungkinkan Anda untuk memodifikasi permintaan dan tanggapan (response) secara terpusat, seperti menambahkan token autentikasi ke setiap permintaan atau menangani kesalahan secara global.
+
+D. Membatalkan permintaan: Anda dapat dengan mudah membatalkan permintaan yang sedang berlangsung menggunakan fungsi pembatalan yang disediakan oleh Axios, yang berguna untuk mencegah pemborosan sumber daya atau mencegah permintaan yang tidak lagi diperlukan.
+
+E. Ringan: Axios memiliki footprint yang kecil dan tidak akan membebani aplikasi Anda secara signifikan.
